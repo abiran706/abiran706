@@ -1,9 +1,6 @@
 <p align="center">
- <img width="100%" src="https://<p align="center">
  <img width="100%" src="https://github.com/abiran706/abiran706/blob/main/banner.jpg" alt="GitHub Banner">
-</p>" alt="GitHub Banner">
 </p>
-
 # 👋 Welcome to My GitHub Profile!
 
 ![profile count](https://komarev.com/ghpvc/?username=abiran706&color=blue)&nbsp;
