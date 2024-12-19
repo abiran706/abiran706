@@ -1,41 +1,67 @@
 <p align="center">
- <img width="800" height="400" src="https://github.com/abiran706/abiran706/blob/main/Abiran.gif">
+ <img width="100%" src="https://raw.githubusercontent.com/abiran706/abiran706/main/banner.jpg" alt="GitHub Banner">
 </p>
 
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello World!
-![profile count](https://komarev.com/ghpvc/?username=abiran706&color=red)&nbsp;
-[![GitHub abiran706](https://img.shields.io/github/followers/abiran706?label=follow&style=social)](https://github.com/abiran706)&nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success)
+# 👋 Welcome to My GitHub Profile!
 
-### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp; I'm a **Java Full Stack Developer** with expertise in designing, developing, and deploying robust and scalable web applications.\
-🎓 &nbsp;I hold a degree in Information Technology and have over 2 years of experience in building secure, efficient applications.\
-🌱 &nbsp;I'm constantly learning and improving my skills in microservices, RESTful APIs, and cloud technologies like AWS and Docker.\
-💬 &nbsp;Feel free to reach out to me for discussions on Java, Spring Boot, React, or any full-stack development queries!\
-✉️ &nbsp;You can email me at **abiranrathore@gmail.com**. I'll try to respond as soon as possible!
+![profile count](https://komarev.com/ghpvc/?username=abiran706&color=blue)&nbsp;
+[![GitHub abiran706](https://img.shields.io/github/followers/abiran706?label=Follow&style=social)](https://github.com/abiran706)&nbsp;
 
 ---
 
-### 🛠 &nbsp;Tech Stack
+## 🧑‍💻 About Me
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
+- 🔥 **Java Full Stack Developer** passionate about building scalable and efficient web applications.
+- 💻 Experienced in **Java**, **Spring Boot**, **React**, and **Microservices Architecture**.
+- 🎯 Skilled in **RESTful APIs**, **Database Management**, and **Cloud Deployment** using **AWS** and **Docker**.
+- 🌱 Currently improving my skills in **Stream API** and **Advanced Java Concepts**.
+- 💬 Let's collaborate! Reach out to me for discussions on Java Full Stack Development and exciting projects.
+- ✉️ Contact: **abiranrathore@gmail.com**
 
 ---
 
-### 📫 &nbsp; How to Reach Me:
+## 🛠 Tech Stack
 
-<a href="https://www.linkedin.com/in/abiran-rathaur-2ab750197"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:abiranrathore@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Projects
+
+### 🌟 [E-Commerce Application](https://github.com/abiran706/ecommerce-project)
+- **Tech Stack**: Spring Boot, React, MySQL
+- Designed and developed a full-stack e-commerce application with features like authentication, product search, and order management.
+
+### 🌟 [Portfolio Website](https://github.com/abiran706/portfolio)
+- **Tech Stack**: HTML5, CSS3, JavaScript
+- A responsive portfolio website showcasing my work and skills.
+
+---
+
+## 📫 How to Reach Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abiran-rathaur-2ab750197"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp;
+  <a href="mailto:abiranrathore@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+## 🌟 Fun Fact
+When I'm not coding, you'll find me exploring new tech tools, listening to podcasts, or brainstorming exciting app ideas!
+
+<p align="center">
+ <img width="100%" src="https://raw.githubusercontent.com/abiran706/abiran706/main/footer.jpg" alt="GitHub Footer">
+</p>
 
