@@ -61,6 +61,6 @@
 When I'm not coding, you'll find me exploring new tech tools, listening to podcasts, or brainstorming exciting app ideas!
 
 <p align="center">
- <img width="100%" src="https://raw.githubusercontent.com/abiran706/abiran706/main/DALL·E%202024-12-19%2011.59.18%20-%20A%20professional%20GitHub%20banner%20design%20featuring%20a%20tech-inspired%20theme.%20The%20banner%20has%20a%20sleek%20gradient%20background%20with%20shades%20of%20blue%20and%20white%2C%20and%20sub.webp" alt="GitHub Footer">
+ <img width="100%" src="https://raw.githubusercontent.com/abiran706/abiran706/main/DALL·E%202024-12-19%2011.59.18.webp" alt="GitHub Footer">
 </p>
 
